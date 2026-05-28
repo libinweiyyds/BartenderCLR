@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  BartenderAPI.cpp
+  BartenderCLR.cpp
+  BartenderCppAPI.cpp
+D:\Desktop\打印\BartenderCLR\BartenderCppAPI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“/BartenderCppAPI.cpp”)
+  
+  正在生成代码...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+    正在创建库 D:\Desktop\打印\BartenderCLR\Debug\BartenderCLR.lib 和对象 D:\Desktop\打印\BartenderCLR\Debug\BartenderCLR.exp
+  BartenderCLR.vcxproj -> D:\Desktop\打印\BartenderCLR\Debug\BartenderCLR.dll
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。

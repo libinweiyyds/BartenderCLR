@@ -1,0 +1,4 @@
+D:\Desktop\打印\BartenderCLR\Debug\Seagull.BarTender.Print.dll
+D:\Desktop\打印\BartenderCLR\Debug\Seagull.BarTender.Print.xml
+D:\Desktop\打印\BartenderCLR\BartenderCLR\Debug\BartenderCLR.vcxproj.AssemblyReference.cache
+D:\Desktop\打印\BartenderCLR\BartenderCLR\Debug\Bartende.8FD1AB11.Up2Date
